@@ -55,5 +55,7 @@ public class Boolean028 {
         System.out.println("лежит в " + result2);
         System.out.println();
         System.out.println(".");
+        System.out.println();
+        System.out.println("..");
     }
 }
