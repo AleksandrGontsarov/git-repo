@@ -52,5 +52,7 @@ public class Boolean026 {
         System.out.println();
         System.out.println("Действительно точка с координатами (" + x + ", " + y + ")");
         System.out.println("лежит в " + result2);
+        System.out.println();
+        System.out.println("!!!");
     }
 }
